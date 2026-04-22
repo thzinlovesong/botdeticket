@@ -1,0 +1,79 @@
+{
+  "1442997674071822520": {
+    "categoriaId": "1442997674927456328",
+    "titulo": "Bem-vindo ao sistema de atendimento",
+    "descricao": "Nossa equipe está pronta para oferecer suporte rápido e eficiente em questões técnicas e administrativas. Para garantir a eficiência do atendimento, solicitamos a máxima clareza ao descrever seu chamado.",
+    "instrucoes": "Selecione a opção que melhor se encaixa na sua necessidade no menu abaixo, o atendimento deve ser utilizado exclusivamente para assuntos relacionados aos nossos produtos.",
+    "horarioAtendimento": "Segunda a Quinta: 10:00h às 22:00h\nSexta e Sábado: 12:00h à 00:00h",
+    "cor": "#1a1a1a",
+    "cargoSuporteId": "1443001490825547826",
+    "canalLogId": "1447048907581423626",
+    "canalFeedbackId": "1447048907581423626",
+    "tiposAtendimento": [
+      "Suporte Técnico",
+      "Dúvidas Gerais",
+      "Problemas com Produto",
+      "Outros"
+    ],
+    "guildId": "1442997674071822520"
+  },
+  "config_1257706577759047741_1442997674071822520": {
+    "categoriaId": "1442997674927456328",
+    "titulo": "Bem-vindo ao sistema de atendimento",
+    "descricao": "Nossa equipe está pronta para oferecer suporte rápido e eficiente em questões técnicas e administrativas. Para garantir a eficiência do atendimento, solicitamos a máxima clareza ao descrever seu chamado.",
+    "instrucoes": "Selecione a opção que melhor se encaixa na sua necessidade no menu abaixo, o atendimento deve ser utilizado exclusivamente para assuntos relacionados aos nossos produtos.",
+    "horarioAtendimento": "Segunda a Quinta: 10:00h às 22:00h\nSexta e Sábado: 12:00h à 00:00h",
+    "cor": "#1a1a1a",
+    "cargoSuporteId": "1443001490825547826",
+    "canalLogId": "1447048907581423626",
+    "canalFeedbackId": "1447048907581423626",
+    "tiposAtendimento": [
+      "Suporte Técnico",
+      "Dúvidas Gerais",
+      "Problemas com Produto",
+      "Outros"
+    ],
+    "bannerUrl": null,
+    "guildId": "1442997674071822520",
+    "userId": "1257706577759047741"
+  },
+  "config_1401118176582045818_1442997674071822520": {
+    "categoriaId": "1442997674927456328",
+    "titulo": "Bem-vindo ao sistema de atendimento",
+    "descricao": "Nossa equipe está pronta para oferecer suporte rápido e eficiente em questões técnicas e administrativas. Para garantir a eficiência do atendimento, solicitamos a máxima clareza ao descrever seu chamado.",
+    "instrucoes": "Selecione a opção que melhor se encaixa na sua necessidade no menu abaixo, o atendimento deve ser utilizado exclusivamente para assuntos relacionados aos nossos produtos.",
+    "horarioAtendimento": "Segunda a Quinta: 10:00h às 22:00h\nSexta e Sábado: 12:00h à 00:00h",
+    "cor": "#1a1a1a",
+    "cargoSuporteId": "1443001490825547826",
+    "canalLogId": "1447048907581423626",
+    "canalFeedbackId": "1447048907581423626",
+    "tiposAtendimento": [
+      "Suporte Técnico",
+      "Dúvidas Gerais",
+      "Problemas com Produto",
+      "Outros"
+    ],
+    "bannerUrl": null,
+    "guildId": "1442997674071822520",
+    "userId": "1401118176582045818"
+  },
+  "1449066059922542645": {
+    "categoriaId": "1449066061310984263",
+    "titulo": "Bem-vindo ao sistema de atendimento - tiutlo",
+    "descricao": "Nossa equipe está pronta para oferecer suporte rápido e eficiente em questões técnicas e administrativas. Para garantir a eficiência do atendimento, solicitamos a máxima clareza ao descrever seu chamado.",
+    "instrucoes": "Selecione a opção que melhor se encaixa na sua necessidade no menu abaixo, o atendimento deve ser utilizado exclusivamente para assuntos relacionados aos nossos produtos.",
+    "horarioAtendimento": "Segunda a Quinta: 10:00h às 22:00h\nSexta e Sábado: 12:00h à 00:00h",
+    "cor": "#1a1a1a",
+    "cargoSuporteId": null,
+    "canalLogId": "1453432726337359912",
+    "canalFeedbackId": null,
+    "tiposAtendimento": [
+      "Suporte Técnico",
+      "Dúvidas Gerais",
+      "Problemas com Produto",
+      "Outros"
+    ],
+    "bannerUrl": null,
+    "guildId": "1449066059922542645"
+  }
+}
